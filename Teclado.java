@@ -1,6 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+//comentado por zuri
 /**
  * Permite lectura desde teclado
  * @author mlmagarinc
