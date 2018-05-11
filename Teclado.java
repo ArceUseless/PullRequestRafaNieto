@@ -5,6 +5,7 @@ import java.io.InputStreamReader;
 /**
  * Permite lectura desde teclado
  * @author mlmagarinc
+ *@verson 1.0
  */
 public class Teclado {
 
